@@ -21,7 +21,7 @@ Passos:
 - Crie um senso de identidade para cada computador, atribuindo nomes e números de endereços IP;
 - Configure os endereços IP para as interfaces dos PCs e do switch de acordo com a mesma sub-rede.
 
-Faixa de IP - 192.168.1.0/24. Distribuição dos IPs apartir do 192.168.1.2
+Faixa de IP - 192.168.1.0/24. Distribuição dos IPs a partir do 192.168.1.2
 Nome Pcs - PC01 até PC04
 
 ![image](https://github.com/fritzgaldino/RedeBasicaProz/assets/87190206/f0b470c0-2102-4f91-9266-9918092fdbe0)
