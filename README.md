@@ -29,7 +29,8 @@ Nome Pcs - PC01 até PC04
 5. Testar a comunicação
 - Para verificar se todos os computadores estão devidamente configurados, acesse um dos PCs da equipe, abra o prompt de comando e tente fazer um ping para o endereço IP do computador de outro membro da equipe.
 
-![image](https://github.com/fritzgaldino/RedeBasicaProz/assets/87190206/bb57c690-e5b1-4286-a381-4c4f75c96750)
+![image](https://github.com/fritzgaldino/RedeBasicaProz/assets/87190206/2c6ad771-3fa8-4897-91a2-80931ae906f3)
+
 
 
 Arquivo packet tracer: 
